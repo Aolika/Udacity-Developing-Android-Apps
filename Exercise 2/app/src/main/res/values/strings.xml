@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise 2</string>
+    <string name="activity_main_edit_text_hint">Enter a query, please</string>
+    <string name="activity_main_text_url">the URL will show up here when you click search</string>
+    <string name="activity_main_text_result">Result of search</string>
+    <string name="menu_search">Search</string>
+    <string name="error">Error</string>
+</resources>
